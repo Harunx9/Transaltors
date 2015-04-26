@@ -53,10 +53,13 @@ class Lexer:
             if tok is None: break
             yield tok
                
-def main(tokens):
+def main(filePath,tokens):
     lex = Lexer(tokens)
-    lex.input_insert('(2.45^4 + 3) + 3x * 3')
-    
+    file_content = None;
+    with open(filePath, 'r') as file:
+        file_content = file.read()
+    file.close()
+    lex.input_insert(file_content)
     try:
         for tok in lex.tokenize():
             print(tok)
@@ -65,15 +68,18 @@ def main(tokens):
 
 if __name__ == '__main__':
     tokens = [    
-    (r'[0-9][a-z]' ,          'identifier'),
-    (r'\+',                   'plus'),
-    (r'\-',                   'minus'),
-    (r'\*',                   'multi'),
-    (r'\/',                   'div'),
-    (r'\^',                   'pow'),
-    (r'\(',                   'lp'),
-    (r'\)',                   'rp'),   
-    (r'[-+]?(\d*[.])?\d+',    'number'),
+    (r'^[^\d\W]\w*',                'identifier'),
+    (r'\+',                         'plus'),
+    (r'\-',                         'minus'),
+    (r'\*',                         'multi'),
+    (r'\/',                         'div'),
+    (r'\^',                         'pow'),
+    (r'\(',                         'lp'),
+    (r'\)',                         'rp'),
+    (r'^\d*(?=\s|$|[a-zA-Z]|\(|\))','int'),   
+    (r'^\d+[.]\d+',               'float'),
     ]
-    main(tokens)
+
+    filePath = 'file.txt'
+    main(filePath,tokens)
     
