@@ -994,3 +994,421 @@ C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Micro
 2015-05-26T18:49:45: Saving group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\_markerlib"
 2015-05-26T18:49:45: End of group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\_markerlib"
 2015-05-26T18:49:46: Deleting 0 files
+
+2015-05-27T18:38:23: Start analysis
+2015-05-27T18:38:23: [WARNING] Library was set explicitly - skipping path detection
+2015-05-27T18:38:23: IncludeModulesFromModulePath = win32com
+2015-05-27T18:38:23: Deleting 234 files
+2015-05-27T18:38:23: Scraping builtin modules
+2015-05-27T18:38:23: Command: "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2015-05-27T18:38:24: Output
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2015-05-27T18:38:24: Scraped builtin modules
+2015-05-27T18:38:24: astropy.CallDepth = 0
+2015-05-27T18:38:24: matplotlib.CallDepth = 3
+2015-05-27T18:38:24: pandas.CallDepth = 0
+2015-05-27T18:38:24: sympy.CallDepth = 0
+2015-05-27T18:38:24: Start group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages" with 2 files
+2015-05-27T18:38:24: Parsing "easy_install" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\easy_install.py")
+2015-05-27T18:38:25: Parsing "pkg_resources" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pkg_resources.py")
+2015-05-27T18:38:25: Parsing complete
+2015-05-27T18:38:25: Analyzing "easy_install"
+2015-05-27T18:38:25: Analyzing "pkg_resources"
+2015-05-27T18:38:25: Starting analysis of 2 modules
+2015-05-27T18:38:26: Analysis complete
+2015-05-27T18:38:26: Saving group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages"
+2015-05-27T18:38:26: End of group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages"
+2015-05-27T18:38:26: Start group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip" with 114 files
+2015-05-27T18:38:26: Parsing "pip.basecommand" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\basecommand.py")
+2015-05-27T18:38:26: Parsing "pip.baseparser" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\baseparser.py")
+2015-05-27T18:38:26: Parsing "pip.cmdoptions" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\cmdoptions.py")
+2015-05-27T18:38:26: Parsing "pip.download" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\download.py")
+2015-05-27T18:38:26: Parsing "pip.exceptions" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\exceptions.py")
+2015-05-27T18:38:26: Parsing "pip.index" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\index.py")
+2015-05-27T18:38:26: Parsing "pip.locations" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\locations.py")
+2015-05-27T18:38:26: Parsing "pip.log" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\log.py")
+2015-05-27T18:38:26: Parsing "pip.pep425tags" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\pep425tags.py")
+2015-05-27T18:38:26: Parsing "pip.req" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\req.py")
+2015-05-27T18:38:26: Parsing "pip.runner" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\runner.py")
+2015-05-27T18:38:26: Parsing "pip.status_codes" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\status_codes.py")
+2015-05-27T18:38:26: Parsing "pip.util" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\util.py")
+2015-05-27T18:38:26: Parsing "pip.wheel" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\wheel.py")
+2015-05-27T18:38:26: Parsing "pip" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\__init__.py")
+2015-05-27T18:38:26: Parsing "pip.__main__" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\__main__.py")
+2015-05-27T18:38:26: Parsing "pip.backwardcompat" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\backwardcompat\__init__.py")
+2015-05-27T18:38:26: Parsing "pip.commands.bundle" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\bundle.py")
+2015-05-27T18:38:26: Parsing "pip.commands.completion" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\completion.py")
+2015-05-27T18:38:26: Parsing "pip.commands.freeze" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\freeze.py")
+2015-05-27T18:38:26: Parsing "pip.commands.help" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\help.py")
+2015-05-27T18:38:26: Parsing "pip.commands.install" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\install.py")
+2015-05-27T18:38:26: Parsing "pip.commands.list" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\list.py")
+2015-05-27T18:38:26: Parsing "pip.commands.search" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\search.py")
+2015-05-27T18:38:26: Parsing "pip.commands.show" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\show.py")
+2015-05-27T18:38:26: Parsing "pip.commands.uninstall" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\uninstall.py")
+2015-05-27T18:38:26: Parsing "pip.commands.unzip" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\unzip.py")
+2015-05-27T18:38:26: Parsing "pip.commands.wheel" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\wheel.py")
+2015-05-27T18:38:26: Parsing "pip.commands.zip" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\zip.py")
+2015-05-27T18:38:26: Parsing "pip.commands" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\commands\__init__.py")
+2015-05-27T18:38:26: Parsing "pip.vcs.bazaar" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\vcs\bazaar.py")
+2015-05-27T18:38:26: Parsing "pip.vcs.git" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\vcs\git.py")
+2015-05-27T18:38:26: Parsing "pip.vcs.mercurial" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\vcs\mercurial.py")
+2015-05-27T18:38:26: Parsing "pip.vcs.subversion" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\vcs\subversion.py")
+2015-05-27T18:38:26: Parsing "pip.vcs" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\vcs\__init__.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.pkg_resources" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\pkg_resources.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.six" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\six.py")
+2015-05-27T18:38:26: Parsing "pip._vendor" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\__init__.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.colorama.ansi" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.colorama.ansitowin32" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.colorama.initialise" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.colorama.win32" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.colorama.winterm" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.colorama" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.compat" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.database" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.index" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.locators" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.manifest" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.markers" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.metadata" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.resources" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.scripts" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.util" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.version" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib.wheel" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib._backport.misc" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib._backport.shutil" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib._backport.sysconfig" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib._backport.tarfile" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.distlib._backport" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.html5lib.constants" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2015-05-27T18:38:26: Parsing "pip._vendor.html5lib.html5parser" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.ihatexml" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.inputstream" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.sanitizer" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.tokenizer" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.utils" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.filters.lint" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.filters.optionaltags" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.filters.sanitizer" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.filters.whitespace" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.filters._base" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.filters" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.serializer" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treeadapters.sax" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treeadapters" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treebuilders.dom" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treebuilders.etree" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treebuilders._base" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treebuilders" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treewalkers.dom" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treewalkers.etree" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treewalkers._base" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.treewalkers" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.trie.datrie" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.trie.py" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.trie._base" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.html5lib.trie" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.adapters" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.api" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.auth" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.certs" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.compat" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.cookies" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.exceptions" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.hooks" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.models" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.sessions" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.status_codes" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.structures" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests.utils" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2015-05-27T18:38:27: Parsing "pip._vendor.requests" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2015-05-27T18:38:27: Parsing "pip._vendor._markerlib.markers" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2015-05-27T18:38:27: Parsing "pip._vendor._markerlib" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2015-05-27T18:38:27: Parsing complete
+2015-05-27T18:38:27: Analyzing "pip.basecommand"
+2015-05-27T18:38:27: Analyzing "pip.baseparser"
+2015-05-27T18:38:27: Analyzing "pip.cmdoptions"
+2015-05-27T18:38:27: Analyzing "pip.download"
+2015-05-27T18:38:27: Analyzing "pip.exceptions"
+2015-05-27T18:38:27: Analyzing "pip.index"
+2015-05-27T18:38:27: Analyzing "pip.locations"
+2015-05-27T18:38:27: Analyzing "pip.log"
+2015-05-27T18:38:27: Analyzing "pip.pep425tags"
+2015-05-27T18:38:27: Analyzing "pip.req"
+2015-05-27T18:38:27: Analyzing "pip.runner"
+2015-05-27T18:38:27: Analyzing "pip.status_codes"
+2015-05-27T18:38:27: Analyzing "pip.util"
+2015-05-27T18:38:27: Analyzing "pip.wheel"
+2015-05-27T18:38:27: Analyzing "pip"
+2015-05-27T18:38:27: Analyzing "pip.__main__"
+2015-05-27T18:38:27: Analyzing "pip.backwardcompat"
+2015-05-27T18:38:27: Analyzing "pip.commands.bundle"
+2015-05-27T18:38:27: Analyzing "pip.commands.completion"
+2015-05-27T18:38:27: Analyzing "pip.commands.freeze"
+2015-05-27T18:38:27: Analyzing "pip.commands.help"
+2015-05-27T18:38:27: Analyzing "pip.commands.install"
+2015-05-27T18:38:27: Analyzing "pip.commands.list"
+2015-05-27T18:38:27: Analyzing "pip.commands.search"
+2015-05-27T18:38:27: Analyzing "pip.commands.show"
+2015-05-27T18:38:27: Analyzing "pip.commands.uninstall"
+2015-05-27T18:38:27: Analyzing "pip.commands.unzip"
+2015-05-27T18:38:27: Analyzing "pip.commands.wheel"
+2015-05-27T18:38:27: Analyzing "pip.commands.zip"
+2015-05-27T18:38:27: Analyzing "pip.commands"
+2015-05-27T18:38:27: Analyzing "pip.vcs.bazaar"
+2015-05-27T18:38:27: Analyzing "pip.vcs.git"
+2015-05-27T18:38:27: Analyzing "pip.vcs.mercurial"
+2015-05-27T18:38:27: Analyzing "pip.vcs.subversion"
+2015-05-27T18:38:27: Analyzing "pip.vcs"
+2015-05-27T18:38:27: Analyzing "pip._vendor.pkg_resources"
+2015-05-27T18:38:27: Analyzing "pip._vendor.six"
+2015-05-27T18:38:27: Analyzing "pip._vendor"
+2015-05-27T18:38:27: Analyzing "pip._vendor.colorama.ansi"
+2015-05-27T18:38:27: Analyzing "pip._vendor.colorama.ansitowin32"
+2015-05-27T18:38:27: Analyzing "pip._vendor.colorama.initialise"
+2015-05-27T18:38:27: Analyzing "pip._vendor.colorama.win32"
+2015-05-27T18:38:27: Analyzing "pip._vendor.colorama.winterm"
+2015-05-27T18:38:27: Analyzing "pip._vendor.colorama"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.compat"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.database"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.index"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.locators"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.manifest"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.markers"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.metadata"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.resources"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.scripts"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.util"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.version"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib.wheel"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib._backport.misc"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib._backport.shutil"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib._backport.tarfile"
+2015-05-27T18:38:27: Analyzing "pip._vendor.distlib._backport"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.constants"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.html5parser"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.ihatexml"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.inputstream"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.sanitizer"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.tokenizer"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.utils"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.filters.lint"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.filters._base"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.filters"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.serializer"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treeadapters"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treebuilders"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.treewalkers"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.trie.datrie"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.trie.py"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.trie._base"
+2015-05-27T18:38:27: Analyzing "pip._vendor.html5lib.trie"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.adapters"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.api"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.auth"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.certs"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.compat"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.cookies"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.exceptions"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.hooks"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.models"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.sessions"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.status_codes"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.structures"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests.utils"
+2015-05-27T18:38:27: Analyzing "pip._vendor.requests"
+2015-05-27T18:38:27: Analyzing "pip._vendor._markerlib.markers"
+2015-05-27T18:38:27: Analyzing "pip._vendor._markerlib"
+2015-05-27T18:38:27: Starting analysis of 114 modules
+2015-05-27T18:38:31: Analysis complete
+2015-05-27T18:38:31: Saving group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip"
+2015-05-27T18:38:32: End of group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\pip"
+2015-05-27T18:38:32: Start group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools" with 55 files
+2015-05-27T18:38:32: Parsing "setuptools.archive_util" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\archive_util.py")
+2015-05-27T18:38:32: Parsing "setuptools.compat" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\compat.py")
+2015-05-27T18:38:32: Parsing "setuptools.depends" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\depends.py")
+2015-05-27T18:38:32: Parsing "setuptools.dist" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\dist.py")
+2015-05-27T18:38:32: Parsing "setuptools.extension" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\extension.py")
+2015-05-27T18:38:32: Parsing "setuptools.lib2to3_ex" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2015-05-27T18:38:32: Parsing "setuptools.package_index" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\package_index.py")
+2015-05-27T18:38:32: Parsing "setuptools.py26compat" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\py26compat.py")
+2015-05-27T18:38:32: Parsing "setuptools.py27compat" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\py27compat.py")
+2015-05-27T18:38:32: Parsing "setuptools.py31compat" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\py31compat.py")
+2015-05-27T18:38:32: Parsing "setuptools.sandbox" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\sandbox.py")
+2015-05-27T18:38:32: Parsing "setuptools.ssl_support" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\ssl_support.py")
+2015-05-27T18:38:32: Parsing "setuptools.svn_utils" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\svn_utils.py")
+2015-05-27T18:38:32: Parsing "setuptools.version" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\version.py")
+2015-05-27T18:38:32: Parsing "setuptools" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\__init__.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.alias" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\alias.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.bdist_egg" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.bdist_rpm" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.bdist_wininst" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.build_ext" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\build_ext.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.build_py" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\build_py.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.develop" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\develop.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.easy_install" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\easy_install.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.egg_info" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\egg_info.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.install" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\install.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.install_egg_info" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.install_lib" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\install_lib.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.install_scripts" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.register" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\register.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.rotate" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\rotate.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.saveopts" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\saveopts.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.sdist" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\sdist.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.setopt" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\setopt.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.test" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\test.py")
+2015-05-27T18:38:32: Parsing "setuptools.command.upload_docs" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2015-05-27T18:38:32: Parsing "setuptools.command" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\command\__init__.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.doctest" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\doctest.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.environment" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\environment.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.py26compat" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\py26compat.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.server" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\server.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_bdist_egg" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_bdist_egg.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_build_ext" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_build_ext.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_develop" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_develop.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_dist_info" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_dist_info.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_easy_install" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_easy_install.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_egg_info" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_egg_info.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_markerlib" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_markerlib.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_packageindex" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_packageindex.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_resources" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_resources.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_sandbox" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_sandbox.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_sdist" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_sdist.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_svn" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_svn.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_test" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_test.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests.test_upload_docs" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\test_upload_docs.py")
+2015-05-27T18:38:32: Parsing "setuptools.tests" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools\tests\__init__.py")
+2015-05-27T18:38:32: Parsing complete
+2015-05-27T18:38:32: Analyzing "setuptools.archive_util"
+2015-05-27T18:38:32: Analyzing "setuptools.compat"
+2015-05-27T18:38:32: Analyzing "setuptools.depends"
+2015-05-27T18:38:32: Analyzing "setuptools.dist"
+2015-05-27T18:38:32: Analyzing "setuptools.extension"
+2015-05-27T18:38:32: Analyzing "setuptools.lib2to3_ex"
+2015-05-27T18:38:32: Analyzing "setuptools.package_index"
+2015-05-27T18:38:32: Analyzing "setuptools.py26compat"
+2015-05-27T18:38:32: Analyzing "setuptools.py27compat"
+2015-05-27T18:38:32: Analyzing "setuptools.py31compat"
+2015-05-27T18:38:32: Analyzing "setuptools.sandbox"
+2015-05-27T18:38:32: Analyzing "setuptools.ssl_support"
+2015-05-27T18:38:32: Analyzing "setuptools.svn_utils"
+2015-05-27T18:38:32: Analyzing "setuptools.version"
+2015-05-27T18:38:32: Analyzing "setuptools"
+2015-05-27T18:38:32: Analyzing "setuptools.command.alias"
+2015-05-27T18:38:32: Analyzing "setuptools.command.bdist_egg"
+2015-05-27T18:38:32: Analyzing "setuptools.command.bdist_rpm"
+2015-05-27T18:38:32: Analyzing "setuptools.command.bdist_wininst"
+2015-05-27T18:38:32: Analyzing "setuptools.command.build_ext"
+2015-05-27T18:38:32: Analyzing "setuptools.command.build_py"
+2015-05-27T18:38:32: Analyzing "setuptools.command.develop"
+2015-05-27T18:38:32: Analyzing "setuptools.command.easy_install"
+2015-05-27T18:38:32: Analyzing "setuptools.command.egg_info"
+2015-05-27T18:38:32: Analyzing "setuptools.command.install"
+2015-05-27T18:38:32: Analyzing "setuptools.command.install_egg_info"
+2015-05-27T18:38:32: Analyzing "setuptools.command.install_lib"
+2015-05-27T18:38:32: Analyzing "setuptools.command.install_scripts"
+2015-05-27T18:38:32: Analyzing "setuptools.command.register"
+2015-05-27T18:38:32: Analyzing "setuptools.command.rotate"
+2015-05-27T18:38:32: Analyzing "setuptools.command.saveopts"
+2015-05-27T18:38:32: Analyzing "setuptools.command.sdist"
+2015-05-27T18:38:32: Analyzing "setuptools.command.setopt"
+2015-05-27T18:38:32: Analyzing "setuptools.command.test"
+2015-05-27T18:38:32: Analyzing "setuptools.command.upload_docs"
+2015-05-27T18:38:32: Analyzing "setuptools.command"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.doctest"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.environment"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.py26compat"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.server"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_bdist_egg"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_build_ext"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_develop"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_dist_info"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_easy_install"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_egg_info"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_markerlib"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_packageindex"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_resources"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_sandbox"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_sdist"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_svn"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_test"
+2015-05-27T18:38:32: Analyzing "setuptools.tests.test_upload_docs"
+2015-05-27T18:38:32: Analyzing "setuptools.tests"
+2015-05-27T18:38:32: Starting analysis of 55 modules
+2015-05-27T18:38:34: Analysis complete
+2015-05-27T18:38:34: Saving group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools"
+2015-05-27T18:38:34: End of group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\setuptools"
+2015-05-27T18:38:34: Start group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\_markerlib" with 2 files
+2015-05-27T18:38:34: Parsing "_markerlib.markers" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\_markerlib\markers.py")
+2015-05-27T18:38:34: Parsing "_markerlib" ("C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\_markerlib\__init__.py")
+2015-05-27T18:38:34: Parsing complete
+2015-05-27T18:38:34: Analyzing "_markerlib.markers"
+2015-05-27T18:38:34: Analyzing "_markerlib"
+2015-05-27T18:38:34: Starting analysis of 2 modules
+2015-05-27T18:38:35: Analysis complete
+2015-05-27T18:38:35: Saving group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\_markerlib"
+2015-05-27T18:38:35: End of group "C:\Users\szymon\Documents\Visual Studio 2013\Projects\Transaltors\Lexer\Lexer\env\Lib\site-packages\_markerlib"
+2015-05-27T18:38:35: Deleting 0 files
+
+2015-05-27T19:29:30: Start analysis
+2015-05-27T19:29:30: [WARNING] Library was set explicitly - skipping path detection
+2015-05-27T19:29:30: IncludeModulesFromModulePath = win32com
+2015-05-27T19:29:30: Deleting 0 files

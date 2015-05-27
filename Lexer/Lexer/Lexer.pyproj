@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>bf8d2491-1f33-40ca-b04f-7994478ce993</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lexer.py</StartupFile>
+    <StartupFile>SyntaxAnalizer.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
