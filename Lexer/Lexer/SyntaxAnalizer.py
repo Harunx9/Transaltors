@@ -73,11 +73,16 @@ class SyntaxAnalizer:
             self.match_grammar_token('lp')
             self.W()
             self.match_grammar_token('rp')
+        else:
+            raise ValueError('not a number or identyfier or left bracket')
 
     
 def main(file, tok):
     parser = SyntaxAnalizer(tok)
-    parser.parse(file)
+    try:
+        parser.parse(file)
+    except ValueError as e:
+        print (e)
 
 if __name__ == '__main__':
     tokens = [
